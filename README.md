@@ -96,11 +96,12 @@ endmodule
 ## Simulation Results
 
 ### Nclaunch Work Library Window
+<img width="1920" height="1078" alt="Screenshot 2026-08-28 155710" src="https://github.com/user-attachments/assets/b68073c9-8a7a-4cbd-998d-6861f6b476d9" />
 
-![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
+
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+<img width="1920" height="1080" alt="Screenshot 2026-08-28 155533" src="https://github.com/user-attachments/assets/c71b3bc8-2fe2-48b7-b4dc-16ed12c11cc9" />
 
 
 
